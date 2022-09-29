@@ -15,7 +15,6 @@ dash_bootstrap_components
 dash.dependencies
 Python.optimize_price
 Python.optimize_quantity
-dash_daq as daq
 matplotlib.pyplot
 seaborn
 statsmodels.formula.api

@@ -19,4 +19,4 @@ dash_html_components
 # dash_daq as daq
 #matplotlib.pyplot
 seaborn
-statsmodels.formula.api
+# statsmodels.formula.api
